@@ -40,15 +40,15 @@ Software needed and how to install them.
 1. Creating SQLite database
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/619c1c1c-cc5d-48d1-bbdc-b711305eaada)
 
-3. Running FastAPI
+2. Running FastAPI
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/6455f72b-ea65-4341-a775-b52da2d18e81)
 
-4. Running HTTP server
+3. Running HTTP server
 
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/af6cb6f5-9d49-4691-a9a0-e3813a505467)
 
-6. When credentials are invalid
+4. When credentials are invalid
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/3e5d0b2f-46ab-4f66-8be4-d3a49e596984)
 
-7. Successful Login
+5. Successful Login
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/949b16c5-8b14-4dd4-8446-dd85970d91e5)
