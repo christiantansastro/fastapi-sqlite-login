@@ -2,21 +2,6 @@
 <h1 align="center">FastAPI SQLite Login System</h1>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-  </ol>
-</details>
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -25,7 +10,7 @@ Follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Software needed and how to install them.
 * npm
   ```
   npm install npm@latest -g
@@ -59,10 +44,11 @@ This is an example of how to list things you need to use the software and how to
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/6455f72b-ea65-4341-a775-b52da2d18e81)
 
 4. Running HTTP server
+
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/af6cb6f5-9d49-4691-a9a0-e3813a505467)
 
-When credentials are invalid
+6. When credentials are invalid
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/3e5d0b2f-46ab-4f66-8be4-d3a49e596984)
 
-Successful Login
+7. Successful Login
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/949b16c5-8b14-4dd4-8446-dd85970d91e5)
