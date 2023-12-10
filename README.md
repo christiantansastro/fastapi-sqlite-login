@@ -34,16 +34,20 @@ This is an example of how to list things you need to use the software and how to
 ### Installation
 
 1. Install packages
-   ```sh
+   ```
    pip install -r /path/to/requirements.txt
    ```
 2. Run login.js to create SQLite database
-   ```sh
+   ```
    node login.js
    ```
 3. Run FastAPI
-   ```uvicorn
+   ```
    py -m uvicorn main:app --reload
+   ```
+4. Run HTTP server
+   ```
+   http-server
    ```
 
 <!-- USAGE EXAMPLES -->
