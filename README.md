@@ -1,5 +1,5 @@
 <div align="center">
-<h3 align="center">FastAPI SQLite Login System</h3>
+<h1 align="center">FastAPI SQLite Login System</h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -20,8 +20,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Instructions on setting up the project locally.
+Follow these simple steps.
 
 ### Prerequisites
 
