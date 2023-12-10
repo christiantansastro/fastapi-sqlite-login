@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/57cc00e8-2afa-41a1-87b0-15214ef996d5)<div align="center">
 <h1 align="center">FastAPI SQLite Login System</h1>
 </div>
 
@@ -26,8 +26,8 @@ Follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* pip
-  ```sh
+* npm
+  ```
   npm install npm@latest -g
   ```
 
@@ -35,7 +35,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Install packages
    ```
-   pip install -r /path/to/requirements.txt
+   pip install -r requirements.txt
    ```
 2. Run login.js to create SQLite database
    ```
@@ -52,7 +52,17 @@ This is an example of how to list things you need to use the software and how to
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+1. Creating SQLite database
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/619c1c1c-cc5d-48d1-bbdc-b711305eaada)
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+3. Running FastAPI
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/6455f72b-ea65-4341-a775-b52da2d18e81)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+4. Running HTTP server
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/af6cb6f5-9d49-4691-a9a0-e3813a505467)
+
+When credentials are invalid
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/3e5d0b2f-46ab-4f66-8be4-d3a49e596984)
+
+Successful Login
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/949b16c5-8b14-4dd4-8446-dd85970d91e5)
