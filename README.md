@@ -1,4 +1,4 @@
-![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/57cc00e8-2afa-41a1-87b0-15214ef996d5)<div align="center">
+<div align="center">
 <h1 align="center">FastAPI SQLite Login System</h1>
 </div>
 
