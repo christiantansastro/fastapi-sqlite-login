@@ -51,7 +51,7 @@ Software needed and how to install them.
 ![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/3e5d0b2f-46ab-4f66-8be4-d3a49e596984)
 
 5. Successful Login
+![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/949b16c5-8b14-4dd4-8446-dd85970d91e5)
 
 ## Note
 To not re-authenticate a user each time they navigate a page. It is possible by using a session cookie or JSON Web Token, but for this system, I have not implemented them due to time constraints.
-![image](https://github.com/christiantansastro/fastapi-sqlite-login/assets/137610891/949b16c5-8b14-4dd4-8446-dd85970d91e5)
